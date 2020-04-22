@@ -7,7 +7,7 @@ A simple distributed application.
 
 IF YOU WANT TO MAKE YOUR OWN DOCKER IMAGES –
 1.	Clone the project repository
-https://github.com/twinkll/voting-app.git
+https://github.com/tiange-wu/voting-app.git
 
 2.	Navigate to project directory 
 3.	Navigate to VOTE folder 
@@ -21,7 +21,7 @@ https://github.com/twinkll/voting-app.git
 -	docker push <docker-username>/worker
 
 CREATE KUBERNETES CONFIGURATION FILES –
-You can refer my GIT repository - https://github.com/twinkll/polling-app-kubernetes.git
+You can refer my GIT repository - https://github.com/tiange-wu/polling-app-kubernetes.git
 
 YOU CAN ALSO SKIP THE ABOVE STEPS AND USE MY DOCKER IMAGES AND KUBERNETES CONFIGURATION FILES
 
@@ -38,7 +38,7 @@ Open the CLOUD SHELL from top right corner and connect to the CLUSTER by enterin
 
 3.	Once connected you can clone the GIT repository consisting k8s YAML filed
 ```
-    https://github.com/twinkll/polling-app-kubernetes.git
+    https://github.com/tiange-wu/polling-app-kubernetes.git
 ```
 Create all deployments and services 
 ```    
